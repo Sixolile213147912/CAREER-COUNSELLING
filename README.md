@@ -1,11 +1,8 @@
 # CAREER-COUNSELLING
 
 The CAREER DEVELOPMENT Course Breakdown
-* What is the purpose of setting goals in career counselling
-* What should be the outcome of effective career counselling
-* What's the primary goal of career development
-* Which on of the following best describes the concept of career planning
-* Which of the following is an example of a hard skill
+* The purpose of setting goals in career counselling
+* Outcomes of effective career counselling
 
 Screenshot of the completeion of the CAREER DEVELOPMENT short course
 
