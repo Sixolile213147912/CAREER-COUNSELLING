@@ -9,4 +9,6 @@ The CAREER DEVELOPMENT Course Breakdown
 * Which of the following is an example of a hard skill
 
 
-![Screenshot of the evidence of completeion of the CAREER COUNSELLING short course: CAREER DEVELOPMENT](![image](https://github.com/user-attachments/assets/0402d4d8-e55e-4942-8f4c-bcc938969af6)
+[Screenshot of the evidence of completeion of the CAREER COUNSELLING short course: CAREER DEVELOPMENT]
+
+(![image](https://github.com/user-attachments/assets/0402d4d8-e55e-4942-8f4c-bcc938969af6)
